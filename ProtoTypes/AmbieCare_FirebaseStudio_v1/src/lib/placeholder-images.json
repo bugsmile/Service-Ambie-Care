@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-care",
+      "description": "Ambient care visualization",
+      "imageUrl": "https://picsum.photos/seed/rooted-hero/1200/800",
+      "imageHint": "elderly care"
+    }
+  ]
+}
